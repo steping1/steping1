@@ -22,7 +22,7 @@
 <h3 align="left">Tech Stacks:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,git,html,java,js,mongodb,nodejs,ps,python" />
+    <img src="https://skillicons.dev/icons?i=git,html,java,js,mongodb,nodejs,python" />
   </a>
 </p>
 
