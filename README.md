@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**steping1/steping1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Mehmet Akif</h1>
+<h3 align="center">Software Developer</h3>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎂 **22 Years old**
+
+<br/>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/mehmet-akif-yılmaz-4846192b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+</p>
+
+<br/>
+
+<h3 align="left">Tech Stacks:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,git,html,java,js,mongodb,nodejs,ps,python" />
+  </a>
+</p>
+
+<br/>
+
+<h3 align="left">Stats:</h3>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steping1&layout=compact&theme=radical" align="left" height="165" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=steping1&show_icons=true&theme=radical" align="left" height="165" alt="stats" />
+</div>
+
+<br clear="both"/>
+<br/>
